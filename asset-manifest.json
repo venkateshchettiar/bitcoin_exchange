@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/exchange_bitcoin/static/css/main.8bffa86e.chunk.css",
+    "main.js": "/exchange_bitcoin/static/js/main.62ac4ba6.chunk.js",
+    "main.js.map": "/exchange_bitcoin/static/js/main.62ac4ba6.chunk.js.map",
+    "runtime-main.js": "/exchange_bitcoin/static/js/runtime-main.a743d878.js",
+    "runtime-main.js.map": "/exchange_bitcoin/static/js/runtime-main.a743d878.js.map",
+    "static/css/2.5bf2d0c4.chunk.css": "/exchange_bitcoin/static/css/2.5bf2d0c4.chunk.css",
+    "static/js/2.a91cb2ba.chunk.js": "/exchange_bitcoin/static/js/2.a91cb2ba.chunk.js",
+    "static/js/2.a91cb2ba.chunk.js.map": "/exchange_bitcoin/static/js/2.a91cb2ba.chunk.js.map",
+    "index.html": "/exchange_bitcoin/index.html",
+    "static/css/2.5bf2d0c4.chunk.css.map": "/exchange_bitcoin/static/css/2.5bf2d0c4.chunk.css.map",
+    "static/css/main.8bffa86e.chunk.css.map": "/exchange_bitcoin/static/css/main.8bffa86e.chunk.css.map",
+    "static/js/2.a91cb2ba.chunk.js.LICENSE.txt": "/exchange_bitcoin/static/js/2.a91cb2ba.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/exchange_bitcoin/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a743d878.js",
+    "static/css/2.5bf2d0c4.chunk.css",
+    "static/js/2.a91cb2ba.chunk.js",
+    "static/css/main.8bffa86e.chunk.css",
+    "static/js/main.62ac4ba6.chunk.js"
+  ]
+}
